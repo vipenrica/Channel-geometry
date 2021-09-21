@@ -1,6 +1,6 @@
 # Channel-geometry
 
-Here you can find the model and data presented in the paper Equilibrium of self-formed, single-thread, sand-bed rivers, which will be hopefuly published soon in Geophysical Research Letters. Authors Enrica Viparelli and Esther Eke.
+Here you can find the model and data presented in the paper Equilibrium of self-formed, single-thread, sand-bed rivers, which will be hopefuly published soon in Geophysical Research Letters. The authors are Enrica Viparelli and Esther Eke.
 
 For more information you can read the paper, the supplementary material, the description in the excel files and you can also contact Enrica at viparell@cec.sc.edu.
 
